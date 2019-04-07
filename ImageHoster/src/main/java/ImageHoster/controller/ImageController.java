@@ -229,7 +229,6 @@ public class ImageController {
          cmt.setImage(image);
          cmt.setUser(image.getUser());
          image.setComment(cmt);
-     //    cmt.setId(1);
         imageService.updateImage(image);
         return "redirect:/images/" + imageId;
     }
