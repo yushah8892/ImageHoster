@@ -54,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ImageHoster/repository/ImageRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-511">
-              <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+            <state relative-caret-position="179">
+              <caret line="69" column="49" lean-forward="true" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -256,7 +256,7 @@
     <property name="SearchEverywhereHistoryKey" value="imagere&#9;FILE&#9;file://E:/MVC_parallel/ImageHoster_solution_13/ImageHoster/src/main/java/ImageHoster/repository/ImageRepository.java&#10;imagec&#9;FILE&#9;file://E:/MVC_parallel/ImageHoster_solution_13/ImageHoster/src/main/java/ImageHoster/controller/ImageController.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554666387856" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554667087107" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -375,12 +375,12 @@
       <workItem from="1554656917697" duration="587000" />
       <workItem from="1554658382268" duration="226000" />
       <workItem from="1554659535010" duration="2085000" />
-      <workItem from="1554665091307" duration="1054000" />
+      <workItem from="1554665091307" duration="1305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150821000" />
+    <option name="totallyTimeSpent" value="151072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -785,8 +785,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ImageHoster/repository/ImageRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-511">
-          <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        <state relative-caret-position="179">
+          <caret line="69" column="49" lean-forward="true" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="49" />
         </state>
       </provider>
     </entry>
